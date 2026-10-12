@@ -1,0 +1,6 @@
+{
+  "name": "Gadget Galaxy Shikohabad",
+  "description": "Premium 3D tech showroom for new, second-hand, refurbished mobiles and laptops, device buying/selling, and certified repairs near Narain Tiraha, Shikohabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
